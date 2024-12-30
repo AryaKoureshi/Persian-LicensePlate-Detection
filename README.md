@@ -133,7 +133,7 @@ Utilizes `splitfolders.ratio` to divide your dataset (e.g., Persian character im
 
 ## License
 
-Feel free to use or modify this project under an open-source license of your choice (e.g. MIT License). Replace this section with your actual License text if needed.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
