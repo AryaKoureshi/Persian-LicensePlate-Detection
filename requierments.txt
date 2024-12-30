@@ -1,0 +1,8 @@
+split-folders
+tensorflow
+numpy
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+ultralytics
